@@ -1,0 +1,22 @@
+.middle {
+    width: 80%;
+    margin: auto;
+}
+
+.middle h2 {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    font-weight: normal;
+    border-bottom: 1px solid black;
+}
+
+.button {
+    background-color: #472759;
+    padding: 15px 32px;
+    text-decoration: none;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-left: 68%;
+    cursor: pointer;
+}

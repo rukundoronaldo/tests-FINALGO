@@ -1,0 +1,19 @@
+.smallSection {
+}
+.colors {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    height: 215px;
+    
+}
+
+@media (max-width: 1050px){
+    .colors {
+       width: 95%;
+       margin: auto;
+    }
+    
+}
+

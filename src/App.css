@@ -1,0 +1,20 @@
+.sectionDiv {
+  flex: 1;
+  padding: 29px;
+}
+
+body {
+  font-weight: normal;
+}
+
+@media (max-width: 1050px){
+  .sectionDiv {
+    display: block;
+    width: 90%;
+    margin: auto;
+  }
+  body {
+    font-weight: normal;
+
+  }
+}
