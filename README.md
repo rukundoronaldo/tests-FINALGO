@@ -16,5 +16,5 @@ to start the project run
 
 i have done some tests, to run them do
 
-`npm test`
+### `npm test`
 
